@@ -1,325 +1,245 @@
 {
-    "cardlist": [
-        {
-            "id_item": 1,
-            "nome_vendedor": "Carol Santos",
-            "numero_vendedor": "(11) 98765-4321",
-            "local_vendedor": "São Paulo, SP",
-            "nome_item": "Teclado Mecânico RGB",
-            "categoria_item": "Periférico",
-            "valor_item": 250.00,
-            "desc_item": "Teclado mecânico com iluminação RGB, switches Cherry MX, e compatível com todas as principais marcas de computadores e consoles."
-        },
-        {
-            "id_item": 2,
-            "nome_vendedor": "João Gomes",
-            "numero_vendedor": "(21) 99999-8888",
-            "local_vendedor": "Rio de Janeiro, RJ",
-            "nome_item": "Mouse Gamer com RGB",
-            "categoria_item": "Periférico",
-            "valor_item": 120.00,
-            "desc_item": "Mouse gamer com iluminação RGB, sensor óptico de alta precisão e design ergonômico."
-        },
-        {
-            "id_item": 3,
-            "nome_vendedor": "Luiz da Silva",
-            "numero_vendedor": "(31) 98765-1234",
-            "local_vendedor": "Belo Horizonte, MG",
-            "nome_item": "Placa de Vídeo Nvidia GTX 1650",
-            "categoria_item": "Componente",
-            "valor_item": 900.00,
-            "desc_item": "Placa de vídeo Nvidia GTX 1650 com 4GB de memória GDDR6, ideal para jogos e edição de vídeo."
-        },
-        {
-            "id_item": 4,
-            "nome_vendedor": "Mariana Marecho",
-            "numero_vendedor": "(51) 98765-6789",
-            "local_vendedor": "Porto Alegre, RS",
-            "nome_item": "Serviço de Limpeza e Manutenção de PC",
-            "categoria_item": "Serviço",
-            "valor_item": 80.00,
-            "desc_item": "Limpeza interna e manutenção preventiva para garantir o bom funcionamento do seu computador."
-        },
-        {
-            "id_item": 5,
-            "nome_vendedor": "Felipe Consolas",
-            "numero_vendedor": "(19) 99999-5555",
-            "local_vendedor": "Campinas, SP",
-            "nome_item": "Console PlayStation 4 Slim",
-            "categoria_item": "Console",
-            "valor_item": 1500.00,
-            "desc_item": "PlayStation 4 Slim com 500GB de armazenamento, acompanha um controle sem fio e cabos."
-        },
-        {
-            "id_item": 6,
-            "nome_vendedor": "Juliana Triz",
-            "numero_vendedor": "(11) 98765-5678",
-            "local_vendedor": "São Paulo, SP",
-            "nome_item": "Computador Gamer Montado",
-            "categoria_item": "Computador",
-            "valor_item": 2800.00,
-            "desc_item": "Computador montado para jogos, processador Intel Core i5, placa de vídeo GTX 1660 Ti, 16GB de RAM e SSD de 240GB."
-        },
-        {
-            "id_item": 7,
-            "nome_vendedor": "Gustavo Ribeiro",
-            "numero_vendedor": "(11) 99999-1111",
-            "local_vendedor": "São Paulo, SP",
-            "nome_item": "Headset Gamer HyperX",
-            "categoria_item": "Acessório",
-            "valor_item": 180.00,
-            "desc_item": "Headset gamer com som surround 7.1, microfone removível e conchas auriculares em memory foam."
-        },
-        {
-            "id_item": 8,
-            "nome_vendedor": "Ana Letícia dos Campos",
-            "numero_vendedor": "(48) 98765-8765",
-            "local_vendedor": "Florianópolis, SC",
-            "nome_item": "Cadeira Gamer Ergonômica",
-            "categoria_item": "Equipamento",
-            "valor_item": 400.00,
-            "desc_item": "Cadeira gamer ergonômica com ajuste de altura, apoio para os braços e almofada para lombar."
-        },
-        {
-            "id_item": 9,
-            "nome_vendedor": "Marcos Zidane",
-            "numero_vendedor": "(31) 99999-2222",
-            "local_vendedor": "Belo Horizonte, MG",
-            "nome_item": "Jogo de PS5 - Spider-Man: Miles Morales",
-            "categoria_item": "Jogo",
-            "valor_item": 150.00,
-            "desc_item": "Jogo para PlayStation 5, protagonizado por Miles Morales, com gráficos incríveis e jogabilidade envolvente."
-        },
-        {
-            "id_item": 10,
-            "nome_vendedor": "Camila Milner",
-            "numero_vendedor": "(21) 98765-3210",
-            "local_vendedor": "Rio de Janeiro, RJ",
-            "nome_item": "Teclado sem Fio Bluetooth",
-            "categoria_item": "Periférico",
-            "valor_item": 80.00,
-            "desc_item": "Teclado sem fio com conexão Bluetooth, design compacto e compatível com diversos dispositivos."
-        },
-        {
-            "id_item": 11,
-            "nome_vendedor": "Rafael Ferreira",
-            "numero_vendedor": "(41) 99999-3333",
-            "local_vendedor": "Curitiba, PR",
-            "nome_item": "Memória RAM DDR4 8GB",
-            "categoria_item": "Componente",
-            "valor_item": 200.00,
-            "desc_item": "Módulo de memória RAM DDR4 com capacidade de 8GB, ideal para aumentar a velocidade do seu computador."
-        },
-        {
-            "id_item": 12,
-            "nome_vendedor": "Sandra Pereira",
-            "numero_vendedor": "(31) 98765-4444",
-            "local_vendedor": "Belo Horizonte, MG",
-            "nome_item": "Instalação de Software",
-            "categoria_item": "Serviço",
-            "valor_item": 50.00,
-            "desc_item": "Serviço de instalação e configuração de software no seu computador ou console, com garantia de funcionamento."
-        },
-        {
-            "id_item": 13,
-            "nome_vendedor": "Diego Santini",
-            "numero_vendedor": "(85) 98765-5555",
-            "local_vendedor": "Fortaleza, CE",
-            "nome_item": "Console Xbox Series S",
-            "categoria_item": "Console",
-            "valor_item": 1700.00,
-            "desc_item": "Console Xbox Series S com 512GB de armazenamento, reprodução de vídeo em 4K e suporte a jogos da nova geração."
-        },
-        {
-            "id_item": 14,
-            "nome_vendedor": "Fernanda Torres",
-            "numero_vendedor": "(11) 99999-6666",
-            "local_vendedor": "São Paulo, SP",
-            "nome_item": "Monitor Gamer Full HD",
-            "categoria_item": "Equipamento",
-            "valor_item": 600.00,
-            "desc_item": "Monitor gamer de 24 polegadas, resolução Full HD, taxa de atualização de 144Hz e tecnologia FreeSync."
-        },
-        {
-            "id_item": 15,
-            "nome_vendedor": "Paulo Goudas",
-            "numero_vendedor": "(41) 98765-7777",
-            "local_vendedor": "Curitiba, PR",
-            "nome_item": "Mousepad Gamer XXL",
-            "categoria_item": "Acessório",
-            "valor_item": 40.00,
-            "desc_item": "Mousepad gamer extra grande, cobrindo toda a área da mesa, com superfície de tecido de alta qualidade e base antiderrapante."
-        },
-        {
-            "id_item": 16,
-            "nome_vendedor": "Mariana Feliciano ",
-            "numero_vendedor": "(51) 99999-8888",
-            "local_vendedor": "Porto Alegre, RS",
-            "nome_item": "Webcam Full HD",
-            "categoria_item": "Periférico",
-            "valor_item": 100.00,
-            "desc_item": "Webcam com resolução Full HD, microfone integrado e clip ajustável para fixação em monitores e laptops."
-        },
-        {
-            "id_item": 17,
-            "nome_vendedor": "Pedro Linhares da Silva",
-            "numero_vendedor": "(61) 98765-1111",
-            "local_vendedor": "Brasília, DF",
-            "nome_item": "Processador AMD Ryzen 5 3600",
-            "categoria_item": "Componente",
-            "valor_item": 700.00,
-            "desc_item": "Processador AMD Ryzen 5 de 3ª geração com 6 núcleos e 12 threads, clock base de 3.6GHz e cache de 35MB."
-        },
-        {
-            "id_item": 18,
-            "nome_vendedor": "Vanessa Silvestre Batteno",
-            "numero_vendedor": "(21) 99999-2222",
-            "local_vendedor": "Rio de Janeiro, RJ",
-            "nome_item": "Upgrade de Memória RAM",
-            "categoria_item": "Serviço",
-            "valor_item": 60.00,
-            "desc_item": "Adição de módulos de memória RAM ao seu computador para melhorar o desempenho e a capacidade multitarefa."
-        },
-        {
-            "id_item": 19,
-            "nome_vendedor": "Giovanni Fisgo",
-            "numero_vendedor": "(81) 98765-2222",
-            "local_vendedor": "Recife, PE",
-            "nome_item": "Controle Nintendo Switch Pro",
-            "categoria_item": "Acessório",
-            "valor_item": 150.00,
-            "desc_item": "Controle Pro para Nintendo Switch, com design ergonômico, conexão Bluetooth e bateria recarregável de longa duração."
-        },
-        {
-            "id_item": 20,
-            "nome_vendedor": "Luana Rodes",
-            "numero_vendedor": "(31) 99999-3333",
-            "local_vendedor": "Belo Horizonte, MG",
-            "nome_item": "Jogo de PC - The Witcher 3: Wild Hunt",
-            "categoria_item": "Jogo",
-            "valor_item": 50.00,
-            "desc_item": "Edição completa do jogo The Witcher 3: Wild Hunt para PC, incluindo todas as expansões e DLCs."
-        },
-        {
-            "id_item": 21,
-            "nome_vendedor": "Ricardo Lemes",
-            "numero_vendedor": "(41) 98765-3333",
-            "local_vendedor": "Curitiba, PR",
-            "nome_item": "SSD Kingston 240GB",
-            "categoria_item": "Componente",
-            "valor_item": 250.00,
-            "desc_item": "SSD Kingston de 240GB, velocidades de leitura/gravação de até 500MB/s, ideal para melhorar a velocidade do seu sistema."
-        },
-        {
-            "id_item": 22,
-            "nome_vendedor": "Gabriela Almeida",
-            "numero_vendedor": "(11) 99999-4444",
-            "local_vendedor": "São Paulo, SP",
-            "nome_item": "Cooler RGB para Gabinete",
-            "categoria_item": "Acessório",
-            "valor_item": 60.00,
-            "desc_item": "Cooler para gabinete de computador com iluminação RGB, proporciona excelente refrigeração e visual incrível."
-        },
-        {
-            "id_item": 23,
-            "nome_vendedor": "Felipe Costa",
-            "numero_vendedor": "(31) 98765-5555",
-            "local_vendedor": "Belo Horizonte, MG",
-            "nome_item": "Mouse Logitech G502 Hero",
-            "categoria_item": "Periférico",
-            "valor_item": 180.00,
-            "desc_item": "Mouse gamer Logitech G502 Hero com sensor HERO 25K, 11 botões programáveis e ajuste de peso."
-        },
-        {
-            "id_item": 24,
-            "nome_vendedor": "Marina Oliveira",
-            "numero_vendedor": "(41) 99999-6666",
-            "local_vendedor": "Curitiba, PR",
-            "nome_item": "Placa-Mãe Asus TUF Gaming B450M-Plus",
-            "categoria_item": "Componente",
-            "valor_item": 400.00,
-            "desc_item": "Placa-mãe Asus TUF Gaming B450M-Plus com suporte para processadores AMD Ryzen, formato micro ATX e iluminação RGB."
-        },
-        {
-            "id_item": 25,
-            "nome_vendedor": "Diego Lima Barbosa",
-            "numero_vendedor": "(85) 98765-7777",
-            "local_vendedor": "Fortaleza, CE",
-            "nome_item": "Formatação e Instalação de Sistema",
-            "categoria_item": "Serviço",
-            "valor_item": 70.00,
-            "desc_item": "Formatação do seu computador e instalação de sistema operacional Windows, Linux ou macOS, com drivers atualizados."
-        },
-        {
-            "id_item": 26,
-            "nome_vendedor": "Camila Souza dos Santos",
-            "numero_vendedor": "(21) 99999-8888",
-            "local_vendedor": "Rio de Janeiro, RJ",
-            "nome_item": "Console Xbox One S",
-            "categoria_item": "Console",
-            "valor_item": 800.00,
-            "desc_item": "Console Xbox One S com 1TB de armazenamento, reprodução de vídeo em 4K e compatibilidade com jogos da geração atual."
-        },
-        {
-            "id_item": 27,
-            "nome_vendedor": "Gustavo Magalhões",
-            "numero_vendedor": "(11) 98765-9999",
-            "local_vendedor": "São Paulo, SP",
-            "nome_item": "Monitor Ultrawide 29 polegadas",
-            "categoria_item": "Equipamento",
-            "valor_item": 700.00,
-            "desc_item": "Monitor ultrawide de 29 polegadas com resolução Full HD, proporção 21:9 e tecnologia IPS para cores vibrantes."
-        },
-        {
-            "id_item": 28,
-            "nome_vendedor": "Renata Rubin",
-            "numero_vendedor": "(48) 98765-1010",
-            "local_vendedor": "Florianópolis, SC",
-            "nome_item": "Teclado Mecânico HyperX Alloy FPS",
-            "categoria_item": "Acessório",
-            "valor_item": 200.00,
-            "desc_item": "Teclado mecânico HyperX Alloy FPS com switches Cherry MX, retroiluminação vermelha e design compacto."
-        },
-        {
-            "id_item": 29,
-            "nome_vendedor": "Carlos Martins carvalho",
-            "numero_vendedor": "(51) 99999-1212",
-            "local_vendedor": "Porto Alegre, RS",
-            "nome_item": "Mousepad Razer Goliathus Speed",
-            "categoria_item": "Acessório",
-            "valor_item": 80.00,
-            "desc_item": "Mousepad Razer Goliathus Speed tamanho grande, superfície otimizada para movimentos rápidos e precisos."
-        },
-        {
-            "id_item": 30,
-            "nome_vendedor": "Vanessa Fernandes da Lima",
-            "numero_vendedor": "(31) 98765-1313",
-            "local_vendedor": "Belo Horizonte, MG",
-            "nome_item": "Jogo de PS4 - Horizon Zero Dawn",
-            "categoria_item": "Jogo",
-            "valor_item": 60.00,
-            "desc_item": "Jogo de ação e aventura Horizon Zero Dawn para PlayStation 4, com gráficos deslumbrantes e uma história cativante."
-        },
-        {
-            "id_item": 31,
-            "nome_vendedor": "Gabriel Nunes",
-            "numero_vendedor": "(81) 99999-1414",
-            "local_vendedor": "Recife, PE",
-            "nome_item": "Controle Xbox Wireless",
-            "categoria_item": "Acessório",
-            "valor_item": 180.00,
-            "desc_item": "Controle Xbox Wireless com tecnologia Bluetooth, design ergonômico e compatibilidade com dispositivos Windows 10."
-        },
-        {
-            "id_item": 32,
-            "nome_vendedor": "Fernanda Mendes Texeira",
-            "numero_vendedor": "(41) 99999-1717",
-            "local_vendedor": "Curitiba, PR",
-            "nome_item": "Teclado sem Fio Logitech K400 Plus",
-            "categoria_item": "Periférico",
-            "valor_item": 100.00,
-            "desc_item": "Teclado sem fio Logitech K400 Plus com touchpad integrado, design compacto e bateria de longa duração."
-        }
-    ]
-    
+"cardlist": [
+{
+"id_item": 1,
+"nome_vendedor": "Carol Santos",
+"numero_vendedor": "(11) 98765-4321",
+"local_vendedor": "São Paulo, SP",
+"nome_item": "Teclado Mecânico RGB",
+"categoria_item": "Periférico",
+"valor_item": 250.00,
+"desc_item": "Teclado mecânico com iluminação RGB, switches Cherry MX, e compatível com todas as principais marcas de computadores e consoles.",
+"imagem": "./"
+},{
+"id_item": 3,
+"nome_vendedor": "Luiz da Silva",
+"numero_vendedor": "(31) 98765-1234",
+"local_vendedor": "Belo Horizonte, MG",
+"nome_item": "Placa de Vídeo Nvidia GTX 1650",
+"categoria_item": "Componente",
+"valor_item": 900.00,
+"desc_item": "Placa de vídeo Nvidia GTX 1650 com 4GB de memória GDDR6, ideal para jogos e edição de vídeo.",
+"imagem": "./"
+},{
+"id_item": 4,
+"nome_vendedor": "Mariana Marecho",
+"numero_vendedor": "(51) 98765-6789",
+"local_vendedor": "Porto Alegre, RS",
+"nome_item": "Serviço de Limpeza e Manutenção de PC",
+"categoria_item": "Serviço",
+"valor_item": 80.00,
+"desc_item": "Limpeza interna e manutenção preventiva para garantir o bom funcionamento do seu computador.",
+"imagem": "./"
+},{
+"id_item": 5,
+"nome_vendedor": "Felipe Consolas",
+"numero_vendedor": "(19) 99999-5555",
+"local_vendedor": "Campinas, SP",
+"nome_item": "Console PlayStation 4 Slim",
+"categoria_item": "Console",
+"valor_item": 1500.00,
+"desc_item": "PlayStation 4 Slim com 500GB de armazenamento, acompanha um controle sem fio e cabos.",
+"imagem": "./"
+},{
+"id_item": 6,
+"nome_vendedor": "Juliana Triz",
+"numero_vendedor": "(11) 98765-5678",
+"local_vendedor": "São Paulo, SP",
+"nome_item": "Computador Gamer Montado",
+"categoria_item": "Computador",
+"valor_item": 2800.00,
+"desc_item": "Computador montado para jogos, processador Intel Core i5, placa de vídeo GTX 1660 Ti, 16GB de RAM e SSD de 240GB.",
+"imagem": "./"
+},{
+"id_item": 7,
+"nome_vendedor": "Gustavo Ribeiro",
+"numero_vendedor": "(11) 99999-1111",
+"local_vendedor": "São Paulo, SP",
+"nome_item": "Headset Gamer HyperX",
+"categoria_item": "Acessório",
+"valor_item": 180.00,
+"desc_item": "Headset gamer com som surround 7.1, microfone removível e conchas auriculares em memory foam.",
+"imagem": "./"
+},{
+"id_item": 8,
+"nome_vendedor": "Ana Letícia dos Campos",
+"numero_vendedor": "(48) 98765-8765",
+"local_vendedor": "Florianópolis, SC",
+"nome_item": "Cadeira Gamer Ergonômica",
+"categoria_item": "Equipamento",
+"valor_item": 400.00,
+"desc_item": "Cadeira gamer ergonômica com ajuste de altura, apoio para os braços e almofada para lombar.",
+"imagem": "./"
+},{
+"id_item": 10,
+"nome_vendedor": "Camila Milner",
+"numero_vendedor": "(21) 98765-3210",
+"local_vendedor": "Rio de Janeiro, RJ",
+"nome_item": "Teclado sem Fio Bluetooth",
+"categoria_item": "Periférico",
+"valor_item": 80.00,
+"desc_item": "Teclado sem fio com conexão Bluetooth, design compacto e compatível com diversos dispositivos.",
+"imagem": "./"
+},{
+"id_item": 11,
+"nome_vendedor": "Rafael Ferreira",
+"numero_vendedor": "(41) 99999-3333",
+"local_vendedor": "Curitiba, PR",
+"nome_item": "Memória RAM DDR4 8GB",
+"categoria_item": "Componente",
+"valor_item": 200.00,
+"desc_item": "Módulo de memória RAM DDR4 com capacidade de 8GB, ideal para aumentar a velocidade do seu computador.",
+"imagem": "./"
+},{
+"id_item": 12,
+"nome_vendedor": "Sandra Pereira",
+"numero_vendedor": "(31) 98765-4444",
+"local_vendedor": "Belo Horizonte, MG",
+"nome_item": "Instalação de Software",
+"categoria_item": "Serviço",
+"valor_item": 50.00,
+"desc_item": "Serviço de instalação e configuração de software no seu computador ou console, com garantia de funcionamento.",
+"imagem": "./"
+},{
+"id_item": 13,
+"nome_vendedor": "Diego Santini",
+"numero_vendedor": "(85) 98765-5555",
+"local_vendedor": "Fortaleza, CE",
+"nome_item": "Console Xbox Series S",
+"categoria_item": "Console",
+"valor_item": 1700.00,
+"desc_item": "Console Xbox Series S com 512GB de armazenamento, reprodução de vídeo em 4K e suporte a jogos da nova geração.",
+"imagem": "./"
+},{
+"id_item": 14,
+"nome_vendedor": "Fernanda Torres",
+"numero_vendedor": "(11) 99999-6666",
+"local_vendedor": "São Paulo, SP",
+"nome_item": "Monitor Gamer Full HD",
+"categoria_item": "Equipamento",
+"valor_item": 600.00,
+"desc_item": "Monitor gamer de 24 polegadas, resolução Full HD, taxa de atualização de 180Hz e tecnologia FreeSync.",
+"imagem": "./"
+},{
+"id_item": 15,
+"nome_vendedor": "Paulo Goudas",
+"numero_vendedor": "(41) 98765-7777",
+"local_vendedor": "Curitiba, PR",
+"nome_item": "Mousepad Gamer XXL",
+"categoria_item": "Acessório",
+"valor_item": 40.00,
+"desc_item": "Mousepad gamer extra grande, cobrindo toda a área da mesa, com superfície de tecido de alta qualidade e base antiderrapante.",
+"imagem": "./"
+},{
+"id_item": 16,
+"nome_vendedor": "Mariana Feliciano ",
+"numero_vendedor": "(51) 99999-8888",
+"local_vendedor": "Porto Alegre, RS",
+"nome_item": "Webcam Full HD",
+"categoria_item": "Periférico",
+"valor_item": 100.00,
+"desc_item": "Webcam com resolução Full HD, microfone integrado e clip ajustável para fixação em monitores e laptops.",
+"imagem": "./"
+},{
+"id_item": 17,
+"nome_vendedor": "Pedro Linhares da Silva",
+"numero_vendedor": "(61) 98765-1111",
+"local_vendedor": "Brasília, DF",
+"nome_item": "Processador AMD Ryzen 5 3600",
+"categoria_item": "Componente",
+"valor_item": 700.00,
+"desc_item": "Processador AMD Ryzen 5 de 3ª geração com 6 núcleos e 12 threads, clock base de 3.6GHz e cache de 35MB.",
+"imagem": "./"
+},{
+"id_item": 19,
+"nome_vendedor": "Giovanni Fisgo",
+"numero_vendedor": "(81) 98765-2222",
+"local_vendedor": "Recife, PE",
+"nome_item": "Controle Nintendo Switch Pro",
+"categoria_item": "Acessório",
+"valor_item": 150.00,
+"desc_item": "Controle Pro para Nintendo Switch, com design ergonômico, conexão Bluetooth e bateria recarregável de longa duração.",
+"imagem": "./"
+},{
+"id_item": 21,
+"nome_vendedor": "Ricardo Lemes",
+"numero_vendedor": "(41) 98765-3333",
+"local_vendedor": "Curitiba, PR",
+"nome_item": "SSD Kingston 240GB",
+"categoria_item": "Componente",
+"valor_item": 250.00,
+"desc_item": "SSD Kingston de 240GB, velocidades de leitura/gravação de até 500MB/s.",
+"imagem": "./"
+},{
+"id_item": 23,
+"nome_vendedor": "Felipe Costa",
+"numero_vendedor": "(31) 98765-5555",
+"local_vendedor": "Belo Horizonte, MG",
+"nome_item": "Mouse Logitech G502 Hero",
+"categoria_item": "Periférico",
+"valor_item": 180.00,
+"desc_item": "Mouse gamer Logitech G502 Hero com sensor HERO 25K, 11 botões programáveis e ajuste de peso.",
+"imagem": "./"
+},{
+"id_item": 24,
+"nome_vendedor": "Marina Oliveira",
+"numero_vendedor": "(41) 99999-6666",
+"local_vendedor": "Curitiba, PR",
+"nome_item": "Placa-Mãe Asus TUF Gaming B450M-Plus",
+"categoria_item": "Componente",
+"valor_item": 400.00,
+"desc_item": "Placa-mãe Asus TUF Gaming B450M-Plus com suporte para processadores AMD Ryzen, formato micro ATX e iluminação RGB.",
+"imagem": "./"
+},{
+"id_item": 25,
+"nome_vendedor": "Diego Lima Barbosa",
+"numero_vendedor": "(85) 98765-7777",
+"local_vendedor": "Fortaleza, CE",
+"nome_item": "Formatação e Instalação de Sistema",
+"categoria_item": "Serviço",
+"valor_item": 70.00,
+"desc_item": "Formatação do seu computador e instalação de sistema operacional Windows, Linux ou macOS, com drivers atualizados.",
+"imagem": "./"
+},{
+"id_item": 26,
+"nome_vendedor": "Camila Souza dos Santos",
+"numero_vendedor": "(21) 99999-8888",
+"local_vendedor": "Rio de Janeiro, RJ",
+"nome_item": "Console Xbox One S",
+"categoria_item": "Console",
+"valor_item": 800.00,
+"desc_item": "Console Xbox One S com 1TB de armazenamento, reprodução de vídeo em 4K e compatibilidade com jogos da geração atual.",
+"imagem": "./"
+},{
+"id_item": 27,
+"nome_vendedor": "Gustavo Magalhões",
+"numero_vendedor": "(11) 98765-9999",
+"local_vendedor": "São Paulo, SP",
+"nome_item": "Monitor Ultrawide 29 polegadas",
+"categoria_item": "Equipamento",
+"valor_item": 700.00,
+"desc_item": "Monitor ultrawide de 29 polegadas com resolução Full HD, proporção 21:9 e tecnologia IPS para cores vibrantes.",
+"imagem": "./"
+},{
+"id_item": 29,
+"nome_vendedor": "Carlos Martins carvalho",
+"numero_vendedor": "(51) 99999-1212",
+"local_vendedor": "Porto Alegre, RS",
+"nome_item": "Mousepad Razer Goliathus Speed",
+"categoria_item": "Acessório",
+"valor_item": 80.00,
+"desc_item": "Mousepad Razer Goliathus Speed tamanho grande, superfície otimizada para movimentos rápidos e precisos.",
+"imagem": "./"
+},{
+"id_item": 31,
+"nome_vendedor": "Gabriel Nunes",
+"numero_vendedor": "(81) 99999-1414",
+"local_vendedor": "Recife, PE",
+"nome_item": "Controle Xbox Wireless",
+"categoria_item": "Acessório",
+"valor_item": 180.00,
+"desc_item": "Controle Xbox Wireless com tecnologia Bluetooth, design ergonômico e compatibilidade com dispositivos Windows 10.",
+"imagem": "./"
+}
+]
 }
